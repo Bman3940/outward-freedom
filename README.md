@@ -1,2 +1,7 @@
 # outward-freedom
-My work
+My first try
+
+
+<I think this will be invisible>
+  
+I have no idea what i am doing!
